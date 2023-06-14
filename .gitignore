@@ -47,4 +47,5 @@ bin/
 out
 gen
 .gradke
+
 application-oauth.properties
